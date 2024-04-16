@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=alankaryerkal)](https://github.com/LordDashMe/github-contribution-stats/)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=alankaryerkal)](https://github.com/LordDashMe/github-contribution-stats/)
